@@ -4107,7 +4107,7 @@ const docTemplate = `{
                 "plugin_entry_path": {
                     "description": "音源插件 entryPath(网络歌曲)",
                     "type": "string",
-                    "example": "lxmusic"
+                    "example": "my-source"
                 },
                 "sample_rate": {
                     "description": "采样率（Hz）",

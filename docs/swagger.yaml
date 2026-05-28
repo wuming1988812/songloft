@@ -246,7 +246,7 @@ definitions:
         type: string
       plugin_entry_path:
         description: 音源插件 entryPath(网络歌曲)
-        example: lxmusic
+        example: my-source
         type: string
       sample_rate:
         description: 采样率（Hz）
