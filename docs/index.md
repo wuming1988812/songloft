@@ -51,4 +51,10 @@ features:
   - icon: 🔌
     title: 完整 REST API
     details: 提供完整的 RESTful API，内置 Swagger 文档，方便集成和二次开发
+  - icon: 🐳
+    title: Docker 一键升级
+    details: 支持容器内自动热升级，无需手动拉镜像重建容器，版本发布后一键在线更新
+  - icon: 🎨
+    title: 动态封面配色
+    details: 播放器从专辑封面提取主色调，实时生成沉浸式配色方案，每首歌拥有独特视觉体验
 ---
